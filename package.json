@@ -1,0 +1,25 @@
+{
+  "name": "finalexamapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaziqK/finaldeploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RaziqK/finaldeploy/issues"
+  },
+  "homepage": "https://github.com/RaziqK/finaldeploy#readme",
+  "description": ""
+}
